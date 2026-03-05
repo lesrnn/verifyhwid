@@ -1,1 +1,2 @@
-# verifyhwid
+hwid : 
+cheat :
